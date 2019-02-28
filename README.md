@@ -9,6 +9,6 @@ alt="game_overview" width="500" height="350" border="10" /></a>
 
 # Structure
 
-<img src="https://forbot.pl/blog/wp-content/uploads/2015/08/Arduino_LCD.png" alt="screenshot">
+<img src="https://forbot.pl/blog/wp-content/uploads/2015/08/Arduino_LCD.png" alt="screenshot" width="400">
 
- [Source](https://forbot.pl/blog/kurs-arduino-wyswietlacz-tekstowy-lcd-id4263)
+ [Source of the image](https://forbot.pl/blog/kurs-arduino-wyswietlacz-tekstowy-lcd-id4263)
